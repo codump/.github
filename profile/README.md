@@ -1,6 +1,6 @@
 👋 Howdy all
 ♻️ Dumping codes at https://codump.github.io/
-🍻 Cheers and enjoy re-using codes!
+🍻 Cheers and enjoy recycling codes!
 
 Rose are red, violets are blue,
 unexpected `{ on line 32`.
